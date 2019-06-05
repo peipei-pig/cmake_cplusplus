@@ -1,2 +1,2 @@
-# cmake_for_c-
+# cmake_cplusplus
 use cmake tools to build c++ project
