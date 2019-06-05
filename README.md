@@ -2,5 +2,5 @@
 use cmake tools to build c++ project
 
 # compile cmake
-cd build
+cd build  
 cmake ..
